@@ -8,9 +8,8 @@ This repo serves as my personal documentation hub where I:
 - **Track Progress** by organizing notes, code snippets, and resources.  
 
 ### **📂 Repository Structure**  
-```
-├───📁 Tools/          # Tools used in Learning ML (Matplotlib, pandas, etc.)  
-├───📁 Basics/          # Foundational ML concepts (Linear Regression, KNN, etc.)  
+```  
+├───📁 Basics/          # Foundational ML concepts.  
 ├───📁 Deep_Learning/   # Neural Networks, TensorFlow/PyTorch implementations  
 ├───📁 Projects/       # Mini-projects & experiments  
 ├───📁 Datasets/       # Sample datasets used (if applicable)  
