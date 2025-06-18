@@ -9,7 +9,7 @@ This repo serves as my personal documentation hub where I:
 
 ### **📂 Repository Structure**  
 ```  
-├───📁 Basics/          # Foundational ML concepts.  
+├───📁 Basics/          # Foundational ML concepts
 ├───📁 Deep_Learning/   # Neural Networks, TensorFlow/PyTorch implementations  
 ├───📁 Projects/       # Mini-projects & experiments  
 ├───📁 Datasets/       # Sample datasets used (if applicable)  
